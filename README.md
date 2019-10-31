@@ -1,0 +1,2 @@
+# weberrors
+Useful error abstraction
